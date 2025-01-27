@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Rel\u00f3gio Elegante",
+      "price": 50.99,
+      "image": "https://lojaminasdepresentes.com.br/media/catalog/product/cache/1/thumbnail/1200x1400/9df78eab33525d08d6e5fb8d27136e95/z/c/zc-xs66253_d_1_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "C\u00e2mera Vintage",
+      "price": 85.5,
+      "image": "https://down-br.img.susercontent.com/file/ab953ed7f31bffb49abcf1d22475e940"
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido",
+      "price": 35.99,
+      "image": "https://m.media-amazon.com/images/I/51olNZRjn+L.jpg"
+    },
+    {
+      "id": 4,
+      "name": "T\u00eanis de Corrida",
+      "price": 120.0,
+      "image": "https://imgmarketplace.lojasrenner.com.br/20001/2084/7010702486922/7510705672406/0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": 299.99,
+      "image": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-xiaomi-redmi-a3-4g-octacore-4gb-ram-128gb_1011980.webp"
+    },
+    {
+      "id": 6,
+      "name": "Livro de Aventura",
+      "price": 19.99,
+      "image": "https://m.media-amazon.com/images/I/61OQMQVEriL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
